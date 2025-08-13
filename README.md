@@ -2,7 +2,7 @@
 
 ### ℹ️ About Me :
 
-- :telescope: I’m working as a Software Engineer.
+- :telescope: I’m working as a Team Lead and also Software Engineer.
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
@@ -22,13 +22,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="80" height="80"/>&nbsp;
 </div>
 
+<!--
 ---
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fdrt29&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fdrt29&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 <!--
 **fdrt29/fdrt29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
