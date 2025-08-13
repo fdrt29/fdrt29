@@ -2,9 +2,7 @@
 
 ### ℹ️ About Me :
 
-- :telescope: I’m working as a Team Lead and also Software Engineer.
-
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leonid-chenskii-b034a9229/)
+- :telescope: I’m working as a Software Engineer.
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
