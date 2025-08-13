@@ -2,7 +2,7 @@
 
 ### ℹ️ About Me :
 
-- :telescope: I’m working as a Team Lead and also Software Engineer.
+- :telescope: I’m working as a Software Engineer.
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
